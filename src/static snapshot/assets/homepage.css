@@ -1,0 +1,37 @@
+.wc-block-components-checkout-place-order-button{
+	
+	background-color: #EC3737 !important;
+	
+}
+.wc-block-cart__submit-button {
+	
+	background-color: #EC3737 !important;
+	
+}
+#ast-scroll-top {
+    background-color: var(--ast-global-color-0);
+    font-size: 15px;
+    display: none !important;
+}
+html, body{
+    
+    overflow-x: hidden !important;
+    	  font-family: 'Montserrat', sans-serif !important;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+.affwp-form label+input, .affwp-form label+select, .affwp-form label+textarea {
+    width: 100%;
+    height: 40px;
+    overflow: hidden;
+    /* min-height: 20px !important; */
+}
+
+.ast-separate-container .ast-article-single:not(.ast-related-post), .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content, .ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description, .ast-separate-container .comments-area {
+    /* background-color: var(--ast-global-color-4); */
+    background-color: transparent;
+}
